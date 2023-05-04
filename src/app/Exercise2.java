@@ -34,6 +34,8 @@ public class Exercise2 {
 			}
 		} while (n < 0 || n > 3);
 
+		sc.close();
+
 	}
 
 }
